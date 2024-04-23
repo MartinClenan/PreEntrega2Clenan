@@ -1,6 +1,6 @@
-import Header from "./components/Navbar.jsx"
+import Header from "./component/Header.jsx"
 import Footer from "./Footer.jsx"
-import Main from "./components/Main.jsx"
+import Main from "./component/Main.jsx"
 
 function App() {
   return (
